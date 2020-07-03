@@ -1,0 +1,4 @@
+payload:
+# > Plex Fantasyland
+  - DOMAIN-KEYWORD,plex
+  - IP-CIDR,139.162.11.17/32,no-resolve
